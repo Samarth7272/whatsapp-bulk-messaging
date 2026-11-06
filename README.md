@@ -6,31 +6,13 @@
 
 *A web-based bulk messaging platform for hospital notifications. Import contacts from Excel, pick an approved template, fill in variables, then send now or schedule it. Delivery status is tracked and reported.*
 
-
-
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=nodedotjs&logoColor=white)
-
-
-
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?logo=whatsapp&logoColor=white)
-
-
-
-
-![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
-
-
-
-
-![HTML](https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white)
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18%2B-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-HTML-E34F26?logo=html5&logoColor=white" />
+</p>
 
 [📧 Hire Me](mailto:samarthworldwide@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/samarth-shukla-b72003293) · [🐙 GitHub](https://github.com/Samarth7272)
 
@@ -247,4 +229,4 @@ I'm actively looking for **Software Engineer, Backend and Full-Stack** roles (fu
 
 ---
 
-⭐ If you found this project useful, please give it a star!!
+⭐ If you found this project useful, please give it a star!
